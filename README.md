@@ -43,11 +43,17 @@ This project demonstrates real-world scripting and automation skills used in IT 
 ```
 automation-toolkit/
 │
-├── toolkit.py          # Main CLI application
-├── requirements.txt    # Dependencies
-└── README.md           # Project documentation
-```
-
+├── toolkit.py
+├── requirements.txt
+├── setup.py
+├── .gitignore
+├── README.md
+│
+├── screenshots/
+│   ├── system-info.png
+│   └── file-organizer.png
+│
+└── automation_toolkit.egg-info/   (IGNORED by git)
 ---
 
 ## ⚙️ Installation
